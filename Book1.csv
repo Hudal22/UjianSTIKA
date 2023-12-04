@@ -1,51 +1,57 @@
-Source,Target
+source,target
 Petani,Tani Hub
-Perusahaan,Petani
-Pedagang,Pantau Harga
-Masyarakat,Lima Kilo
-Pengusaha,Si Kumis
-Petani,Tani Hub
-Perusahaan,Pantau Harga
-Pedagang,Lima Kilo
-Masyarakat,Si Kumis
-Perusahaan,Tani Hub
-Pedagang,Petani
-Masyarakat,Lima Kilo
-Pengusaha,Si Kumis
-Perusahaan,Tani Hub
-Pedagang,Petani
-Masyarakat,Pantau Harga
-Pengusaha,Si Kumis
-Petani,Tani Hub
-Perusahaan,Petani
-Pedagang,Pantau Harga
-Masyarakat,Lima Kilo
 Petani,Petani
-Perusahaan,Pantau Harga
-Pedagang,Lima Kilo
-Petani,Tani Hub
+Petani,Pantau Harga
+Petani,Lima Kilo
+Petani,Si Kumis
+Petani,I Grow
+Petani,Crowde
+Petani,Pasar  Laut
+Perusahaan,Tani Hub
 Perusahaan,Petani
-Pedagang,Pantau Harga
-Masyarakat,Lima Kilo
-Pengusaha,Si Kumis
-Petani,Tani Hub
 Perusahaan,Pantau Harga
-Pedagang,Lima Kilo
-Masyarakat,Si Kumis
-Perusahaan,Tani Hub
-Pedagang,Petani
-Masyarakat,Lima Kilo
-Pengusaha,Si Kumis
-Perusahaan,Tani Hub
-Pedagang,Petani
+Perusahaan,Lima Kilo
+Perusahaan,Si Kumis
+Perusahaan,I Grow
+Perusahaan,Crowde
+Perusahaan,Pasar  Laut
+Masyarakat,Tani Hub
+Masyarakat,Petani
 Masyarakat,Pantau Harga
-Pengusaha,Lima Kilo
-Petani,Tani Hub
-Perusahaan,Petani
-Pedagang,Pantau Harga
 Masyarakat,Lima Kilo
-Pengusaha,Si Kumis
-Petani,Tani Hub
+Masyarakat,Si Kumis
+Masyarakat,I Grow
+Masyarakat,Crowde
+Masyarakat,Pasar  Laut
+Perusahaan,Tani Hub
 Perusahaan,Petani
-Pedagang,Pantau Harga
-Masyarakat,Lima Kilo
+Perusahaan,Pantau Harga
+Perusahaan,Lima Kilo
+Perusahaan,Si Kumis
+Perusahaan,I Grow
+Perusahaan,Crowde
+Perusahaan,Pasar  Laut
+Nelayan,Tani Hub
+Nelayan,Petani
+Nelayan,Pantau Harga
+Nelayan,Lima Kilo
+Nelayan,Si Kumis
+Nelayan,I Grow
+Nelayan,Crowde
+Nelayan,Pasar  Laut
+Ibu Rumah Tangga,Tani Hub
+Ibu Rumah Tangga,Petani
+Ibu Rumah Tangga,Pantau Harga
+Ibu Rumah Tangga,Lima Kilo
+Ibu Rumah Tangga,Si Kumis
+Ibu Rumah Tangga,I Grow
+Ibu Rumah Tangga,Crowde
+Ibu Rumah Tangga,Pasar  Laut
+Peternak,Tani Hub
+Peternak,Petani
+Peternak,Pantau Harga
+Peternak,Lima Kilo
+Peternak,Si Kumis
+Peternak,I Grow
+Peternak,Crowde
+Peternak,Pasar  Laut

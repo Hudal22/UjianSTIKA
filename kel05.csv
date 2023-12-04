@@ -1,5 +1,4 @@
 source ,target
-Buah,Tani Hub
 Buah,Petani
 Buah,Pantau Harga
 Buah,Lima Kilo
@@ -25,7 +24,6 @@ Benih,Pantau Harga
 Benih,Lima Kilo
 Benih,Target
 Pupuk,Tani Hub
-Pupuk,Petani
 Pupuk,Pantau Harga
 Pupuk,Lima Kilo
 Pupuk,Si Kumis
@@ -49,3 +47,7 @@ Rempah,Petani
 Rempah,Pantau Harga
 Rempah,Lima Kilo
 Rempah,Si Kumis
+Telur,Petani
+Telur,Pantau Harga
+Telur,Lima Kilo
+Telur,Si Kumis
